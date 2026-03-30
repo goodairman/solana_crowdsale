@@ -4,7 +4,7 @@ mod state;
 mod constants;
 mod instructions;
 
-declare_id!("4tAj8UbxCCVChy785xKz4ZK17vKch3CAbwM8co7u8VUb");
+declare_id!("HciPz9qoNEBBWga6KWomnDovANbQWnTAT5iFSNW7Ji3K");
 
 #[program]
 pub mod crowdsale {
